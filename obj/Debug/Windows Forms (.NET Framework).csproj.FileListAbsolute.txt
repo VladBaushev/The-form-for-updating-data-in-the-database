@@ -1,0 +1,24 @@
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).exe.config
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).exe
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).pdb
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.AssemblyReference.cache
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Form1.resources
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Properties.Resources.resources
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.GenerateResource.cache
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.CoreCompileInputs.cache
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).exe
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).pdb
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.UserControl1.resources
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.AssemblyReference.cache
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Form1.resources
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Properties.Resources.resources
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.UserControl1.resources
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.GenerateResource.cache
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).csproj.CoreCompileInputs.cache
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).exe
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows Forms (.NET Framework).pdb
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).exe.config
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).exe
+D:\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\bin\Debug\Windows Forms (.NET Framework).pdb
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Form2.resources
+K:\sql\Windows Forms (.NET Framework)\Windows Forms (.NET Framework)\obj\Debug\Windows_Forms__.NET_Framework_.Form3.resources
